@@ -1,7 +1,8 @@
 # WasteTech - Revolutionizing Waste Management for Sustainable Cities and Communities
 
-PowerPoint Presentation: https://docs.google.com/presentation/d/1jPn_V83zIZSk11jzELJZFpbcUVdhR9zVyQSJ5SSaabE/edit?usp=drivesdk
+**PowerPoint Presentation:** [PowerPoint](https://docs.google.com/presentation/d/1jPn_V83zIZSk11jzELJZFpbcUVdhR9zVyQSJ5SSaabE/edit?usp=drivesdk)
 
+**AI Model test Site:** [ai_model](http://wastemanage.azurewebsites.net/)
 ## Table of Contents
 
 - [Introduction](#introduction)
