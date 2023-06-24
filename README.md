@@ -18,6 +18,8 @@ This project was developed as part of the Power Hacks Hackathon, with the aim of
 - **AI and IoT Integration:** WasteTech utilizes AI and IoT technologies to optimize waste collection, sorting, and recycling processes. This enables efficient waste management and reduces the burden on manual sorting.
 - **Blockchain Technology:** By leveraging blockchain, WasteTech ensures transparent and traceable waste tracking and management. This enhances accountability and promotes a circular economy.
 - **Creation of Utility Recyclables:** WasteTech focuses on creating utility recyclables from waste materials, transforming them into valuable resources. This promotes a circular economy and minimizes waste generation.
+- **Gamification of Plastic Waste:**WasteTech incorporates a gamification element to encourage active citizen participation. Through a mobile application, users can track their waste disposal habits, earn points, and compete with friends. Educational challenges and rewards motivate individuals to reduce, recycle, and properly dispose of plastic waste, fostering community engagement.
+-**Tokenized System for Plastic:**WasteTech aims to establish a tokenized system for plastic waste management. Users can earn tokens by practicing responsible waste disposal, participating in recycling programs, and reducing plastic usage. These tokens can be redeemed for rewards like discounts or public transportation credits, promoting a circular economy and sustainable behaviors.
 
 ## Installation
 1. Clone the repository:
