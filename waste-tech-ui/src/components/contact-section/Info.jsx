@@ -13,10 +13,10 @@ import './info.css'
 
 const contactDetails = [
   {
-    value: '1600 Amphitheatre Parkway, Mountain View, california.',
+    value: 'Dar es Salaam Tanzania.',
     // icon: locationIcon,
   },
-  { value: '+1 234 567 8900',  },
+  { value: '+255 764564578',  },
   { value: 'support@example.com',  },
 ]
 
@@ -34,7 +34,7 @@ const renderContactDetails = () =>
 
 const Info = () => (
   <section className="info">
-    <h2 className="info-h2">Contact information</h2>
+    <h2 className="info-h2">Waste Tech.</h2>
 
     <div className="info-details-container">{renderContactDetails()}</div>
 

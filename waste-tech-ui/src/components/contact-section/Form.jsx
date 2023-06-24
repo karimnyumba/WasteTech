@@ -1,6 +1,6 @@
 import React from 'react'
 import { Icon } from '@iconify/react'
-
+import { TrashIcon } from "@heroicons/react/24/solid";
 
 import './form.css'
 
@@ -23,23 +23,7 @@ const formInputs = [
 
 const Form = () => (
   <form className="form">
-    <h2 className="form-h2">Send us a message</h2>
-
-    {formInputs.map(input => (
-      <label key={input.label} id={input.id} className="form-label">
-        {input.label}
-
-        {input.type === 'textarea' ? (
-          <textarea className="form-textarea" placeholder={input.placeholder} />
-        ) : (
-          <input
-            className="form-input"
-            type={input.type}
-            placeholder={input.placeholder}
-          />
-        )}
-      </label>
-    ))}
+    <h2 className="form-h2">Bin Locations</h2>
 
     {/* <Icon className="form-submit" icon={sendCircle} /> */}
 
