@@ -24,6 +24,7 @@ const formInputs = [
 const Form = () => (
   <form className="form">
     <h2 className="form-h2">Bin Locations</h2>
+   {/* // Lists goes here */}
 
     {/* <Icon className="form-submit" icon={sendCircle} /> */}
 
