@@ -3,7 +3,7 @@
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
-- [Installation](#installation)
+- [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
@@ -21,26 +21,16 @@ This project was developed as part of the Power Hacks Hackathon, with the aim of
 - **Gamification of Plastic Waste:** WasteTech incorporates a gamification element to encourage active citizen participation. Users can track their waste disposal habits, earn points, and compete with friends. Educational challenges and rewards motivate individuals to reduce, recycle, and properly dispose of plastic waste, fostering community engagement.
 - **Tokenized System for Plastic:** WasteTech aims to establish a tokenized system for plastic waste management. Users can earn tokens by practicing responsible waste disposal, participating in recycling programs, and reducing plastic usage. These tokens can be redeemed for rewards like discounts or public transportation credits, promoting a circular economy and sustainable behaviors.
 
-## Installation
-1. Clone the repository:
+## Getting Started
+Clone the repository:
  ```
 git clone https://github.com/karimnyumba/WasteTech.git
 ```
-2. Install the required dependencies:
-```
-npm install
-```
-
-## Usage
-1. Run the application: `npm start`
-2. Access the WasteTech dashboard from your preferred web browser.
-3. Follow the on-screen instructions to manage waste collection, track waste data, and monitor recycling processes.
-4. Explore the various features and functionalities of WasteTech to understand its potential in revolutionizing waste management.
 
 ## Technologies Used
-- AI (Artificial Intelligence)
+- AI (Artificial Intelligence) (tensorflow, vgg16) 
 - IoT (Internet of Things)
-- Blockchain
+- Blockchain (solidity, brownie, Ethereum, ipfs)
 - HTML, CSS, JavaScript
 - Node.js
 - React
