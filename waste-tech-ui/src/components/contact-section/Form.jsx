@@ -35,6 +35,11 @@ const Form = () => (
         The AI Model For Waste Classification
       </h3>
     </a>
+    <hr />
+    <h1>Latest Transactions </h1>
+    <a href='https://goerli.etherscan.io/tx/0x6e8ca8b23d5c67fbbf9077e578d2f905cac66db3c66f77510aace7868340d5c5'>
+      Last Transactions
+    </a>
     {/* <Icon className="form-submit" icon={sendCircle} /> */}
 
     {/* <button className="form-submit" type="submit">
