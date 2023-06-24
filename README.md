@@ -68,7 +68,9 @@ For any inquiries or feedback, please contact the WasteTech team at:
 - Email   : <deowidambe@gmail.com>
 - [Github Link](https://github.com/widambedeograss) 
 - [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/widambedeo.svg?style=social&label=Follow%20%40widambedeo)](https://twitter.com/widambedeo)
+
 Feel free to reach out to us with any questions or collaborations.
+
 
 Thank you for your interest in WasteTech! Together, we can create sustainable cities and communities.
 
