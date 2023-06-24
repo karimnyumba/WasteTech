@@ -25,6 +25,11 @@ const Form = () => (
   <form className="form">
     <h2 className="form-h2">Bin Locations</h2>
    {/* // Lists goes here */}
+   <ol>
+    <li>National Examination Council</li>
+    <li>College of Information and Communication Technology CoICT</li>
+    <li>Institute of Social Work</li>
+   </ol>
 
     {/* <Icon className="form-submit" icon={sendCircle} /> */}
 

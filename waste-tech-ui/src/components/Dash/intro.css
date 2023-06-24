@@ -11,8 +11,17 @@
     margin-top: -50px;
   }
   
+
+  .header-1{
+    font-size: larger;
+    text-align: center;
+    margin-top: 4;
+    margin-bottom: 3;
+    font-weight: bolder;
+  }
   .intro-h2 {
     margin: 0;
+    font-size: large;
   }
   
   .intro-p {

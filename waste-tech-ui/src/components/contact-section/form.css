@@ -91,3 +91,8 @@
     grid-area: submit;
   }
 }
+
+ol{
+  margin-left: 1rem;
+  list-style-type: disc;
+}
